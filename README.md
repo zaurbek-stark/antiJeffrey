@@ -2,8 +2,8 @@
 
 This is the codebase for the social media blocker extension that I built for Hamza:
 <div>
-<a href="https://youtu.be/AfoxZEGv7UY">
-<img width="353" alt="image" src="https://user-images.githubusercontent.com/121587026/210020737-b5c041db-4a3a-4acd-a6c1-8f5065f4f9fa.png">
+<a href="https://youtu.be/6WB8uGQEADk">
+<img width="316" alt="image" src="https://user-images.githubusercontent.com/121587026/210021186-d559ea48-1e72-4b6c-937d-c460a8dff7bd.png">
 </a>
 </div>
 
